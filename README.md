@@ -29,5 +29,6 @@ B) How to RECEIVE data from microservice:
     The client contains the code needed to RECEIVE data from the server.
 
 C) UML DIAGRAM
-![image](https://user-images.githubusercontent.com/76918818/218622668-e0bcf3e9-6a40-4618-a172-f6c5cc452922.png)
+![Capture](https://user-images.githubusercontent.com/76918818/218648641-a4ec9f73-6645-4eb5-bc7b-7a4477e972f8.PNG)
+
 
